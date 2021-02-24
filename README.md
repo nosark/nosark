@@ -8,7 +8,8 @@ My Name is Kyle and a few things I like to do are:
   5. Make Video Games
   6. And break things again....
  
- C++ doesn't show up for some reason? 
+ C++ 
+ [XXXXXXXXXXX__________________] 
  
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nosark)](https://github.com/nosark)
