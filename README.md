@@ -6,7 +6,6 @@ My Name is Kyle and a few things I like to do are:
   3. Solve interesting and complex problems
   4. Delve into AI/ML in my spare time
   5. Make Video Games
-  6. And break things again....
  
  C++ 
  [XXXXXXXXXXXXXXXXX__________] 
