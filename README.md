@@ -5,9 +5,6 @@ My name is Kyle and a few things I like to do are:
   2. Break things
   3. Solve interesting and complex problems
   4. Read
-  5. Make Video Games
-  6. Play Video Games
-  
   
  C++ [xxxxxxxxxxxxxxxxxxxx_____________] (private repos)
 
