@@ -10,7 +10,7 @@
 </div>
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nosark&theme=rose_pine&card_width=480" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nosark&theme=rose_pine&card_width=480&count_private=true" />
 </a>
 </div>
 
